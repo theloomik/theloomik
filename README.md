@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Alex (LooMik)
 
-<!--
-**theloomik/theloomik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Product Designer with a technical background.
 
-Here are some ideas to get you started:
+I’m interested in how people use products: what confuses them,
+what they need, and how an interface can make a task simpler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### GameNest
+A platform for browsing games and managing a personal game library.
+
+My contribution: backend API and product logic.
+I’m turning this project into a UX case study.
+
+→ https://github.com/GameNestProject/GameNest_BackEnd
+
+### MCServer
+A desktop app for creating and managing Minecraft servers without the terminal.
+
+→ https://github.com/theloomik/MCServer
+
+## Currently learning
+
+User research · UX flows · wireframing · usability testing · UI design
+
+## Contact
+
+Telegram: https://t.me/LooMik
